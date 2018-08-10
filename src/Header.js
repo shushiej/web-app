@@ -7,8 +7,8 @@ class Header extends Component {
     return (
       <nav className="header">
         <div className="nav-wrapper container">
-          <Link to="/" className="brand-logo">
-            <img src="./tj-logo.png" alt="That Joshi"/>
+          <Link to="/" className="brand-logo center">
+            <span> That Joshi </span>
           </Link>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
