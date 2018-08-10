@@ -1,8 +1,2 @@
-# Color Scheme:
-
-#72E1D1
-#F4E04D
-#654EA3
-#F45B69
-#D5E8F2
+# My personal web app.
 
