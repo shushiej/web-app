@@ -8,7 +8,7 @@ class Header extends Component {
       <nav className="header">
         <div className="nav-wrapper container">
           <Link to="/" className="brand-logo center">
-            <span> That Joshi </span>
+            <span>That Joshi</span>
           </Link>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
@@ -16,6 +16,9 @@ class Header extends Component {
             </li>
             <li>
               <Link to="/blogs">Blogs</Link>
+            </li>
+            <li>
+              <Link to="/">Wellness</Link>
             </li>
           </ul>
         </div>
